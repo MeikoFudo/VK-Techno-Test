@@ -33,5 +33,8 @@
 - `pandas` для работы с данными в формате Parquet.
 - `numpy` для работы с массивами данных.
 - `matplotlib` и `seaborn` для визуализации.
-  ![загруженное (6)](https://github.com/user-attachments/assets/21096993-7b6c-4ddd-98fc-38ab80102334)
+![загруженное (6)](https://github.com/user-attachments/assets/21096993-7b6c-4ddd-98fc-38ab80102334)
+
+  
+![загруженное (7)](https://github.com/user-attachments/assets/a11baba9-00e4-44ba-b5a7-6da41bd847e7)
 
